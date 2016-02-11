@@ -1,0 +1,25 @@
+{
+  "name": "myth-monsters",
+  "version": "1.0.0",
+  "description": "Small JSON data of mythological monsters for testing things",
+  "main": "data.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/myth-monsters.git"
+  },
+  "keywords": [
+    "monsters",
+    "data",
+    "test",
+    "json"
+  ],
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/myth-monsters/issues"
+  },
+  "homepage": "https://github.com/nichoth/myth-monsters#readme"
+}

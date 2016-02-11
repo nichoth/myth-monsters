@@ -1,0 +1,20 @@
+# mythological monsters
+
+A little data for testing things.
+
+## install
+
+    $ npm install myth-monsters
+
+## data
+
+```js
+[
+  {name: "sphinx", mythology: "greek", eyes: 2, hobbies: ["riddles","sitting","being a wonder"]},
+  {name: "hydra", mythology: "greek", eyes: 18, hobbies: ["coiling","terrorizing","growing"]},
+  {name: "huldra", mythology: "norse", eyes: 2, hobbies: ["luring","terrorizing"]},
+  {name: "cyclops", mythology: "greek", eyes: 1, hobbies: ["staring","terrorizing"]},
+  {name: "fenrir", mythology: "norse", eyes: 2, hobbies: ["growing","god-killing"]},
+  {name: "medusa",  mythology: "greek", eyes: 2, hobbies: ["coiling","staring"]}
+]
+```
