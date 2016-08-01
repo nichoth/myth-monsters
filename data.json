@@ -54,5 +54,35 @@
       "coiling",
       "staring"
     ]
+  },
+  {
+    "name": "cthulhu",
+    "mythology": "cthulhu-mythos",
+    "eyes": 2,
+    "hobbies": [
+      "sleeping",
+      "psychic influence",
+      "dreaming"
+    ]
+  },
+  {
+    "name": "migo",
+    "mythology": "lovecraft-mythos",
+    "eyes": 2,
+    "hobbies": [
+      "mining",
+      "brain collection",
+      "space travel"
+    ]
+  },
+  {
+    "name": "cthonian",
+    "mythology": "lovecraft-mythos",
+    "eyes": "unknown",
+    "hobbies": [
+      "digging",
+      "laying eggs",
+      "hibernating"
+    ]
   }
 ]
