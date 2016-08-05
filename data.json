@@ -84,5 +84,43 @@
       "laying eggs",
       "hibernating"
     ]
+  },
+  {
+    "name" : "Nyarlathotep",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "depends on form",
+    "hobbies" : [
+        "messaging",
+        "being inscrutable"
+    ]
+  },
+  {
+    "name" : "Yog-sothoth",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "who knows",
+    "hobbies" : ["
+        "lurking",
+        "impregnating human women"
+    "]
+  },
+  {
+    "name" : "Shoggoth,
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "many or none",
+    "hobbies" : [
+        "dissolving stuff",
+        "revolting and the masters",
+        "flowing"
+    ]
+  },
+  {
+    "name" : "Deep One",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2",
+    "hobbies" : [
+        "swimming",
+        "cavorting on reefs",
+        "corrupting human communities"
+    ]
   }
 ]
