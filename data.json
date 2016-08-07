@@ -2,7 +2,7 @@
   {
     "name": "sphinx",
     "mythology": "greek",
-    "eyes": 2,
+    "eyes": "2",
     "hobbies": [
       "riddles",
       "sitting",
@@ -12,7 +12,7 @@
   {
     "name": "hydra",
     "mythology": "greek",
-    "eyes": 18,
+    "eyes": "18",
     "hobbies": [
       "coiling",
       "terrorizing",
@@ -22,7 +22,7 @@
   {
     "name": "huldra",
     "mythology": "norse",
-    "eyes": 2,
+    "eyes": "2",
     "hobbies": [
       "luring",
       "terrorizing"
@@ -31,7 +31,7 @@
   {
     "name": "cyclops",
     "mythology": "greek",
-    "eyes": 1,
+    "eyes": "1",
     "hobbies": [
       "staring",
       "terrorizing"
@@ -40,7 +40,7 @@
   {
     "name": "fenrir",
     "mythology": "norse",
-    "eyes": 2,
+    "eyes": "2",
     "hobbies": [
       "growing",
       "god-killing"
@@ -49,7 +49,7 @@
   {
     "name": "medusa",
     "mythology": "greek",
-    "eyes": 2,
+    "eyes": "2",
     "hobbies": [
       "coiling",
       "staring"
@@ -57,8 +57,8 @@
   },
   {
     "name": "cthulhu",
-    "mythology": "cthulhu-mythos",
-    "eyes": 2,
+    "mythology": "lovecraft-mythos",
+    "eyes": "2",
     "hobbies": [
       "sleeping",
       "psychic influence",
@@ -68,7 +68,7 @@
   {
     "name": "migo",
     "mythology": "lovecraft-mythos",
-    "eyes": 2,
+    "eyes": "2",
     "hobbies": [
       "mining",
       "brain collection",
@@ -98,18 +98,18 @@
     "name" : "Yog-sothoth",
     "mythology" : "lovecraft-mythos",
     "eyes" : "who knows",
-    "hobbies" : ["
+    "hobbies" : [
         "lurking",
         "impregnating human women"
-    "]
+    ]
   },
   {
-    "name" : "Shoggoth,
+    "name" : "Shoggoth",
     "mythology" : "lovecraft-mythos",
     "eyes" : "many or none",
     "hobbies" : [
         "dissolving stuff",
-        "revolting and the masters",
+        "slave revolts",
         "flowing"
     ]
   },
@@ -121,6 +121,286 @@
         "swimming",
         "cavorting on reefs",
         "corrupting human communities"
+    ]
+  },
+  {
+    "name" : "Star Vampire",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "?",
+    "hobbies" : [
+        "presumably some weird shit"
+    ]
+  },
+  {
+    "name" : "Hound of Tindalos",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2?",
+    "hobbies" : [
+        "moving through angles",
+        "being relentless"
+    ]
+  },
+  {
+    "name" : "Star Spawn of Cthulu",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2",
+    "hobbies" : [
+        "swimming",
+        "heralding Cthulu",
+        "stomping things"
+    ]
+  }
+  {
+    "name" : "Dark Young of Shub-niggaroth",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "?",
+    "hobbies" : [
+        "stomping things",
+        "outdoor sports"
+    ]
+  },
+  {
+    "name" : "Byakhee",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "?",
+    "hobbies" : [
+        "space mead",
+        "travel"
+    ]
+  },
+  {
+    "name" : "Nodens",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2",
+    "hobbies" : [
+        "hunting"
+    ]
+  },
+  {
+    "name" : "Ghoul",
+    "mythology" : "traditional",
+    "eyes" : 2,
+    "hobbies" : [
+        "lurking",
+        "cavorting in grave yards"
+    ]
+  },
+  {
+    "name" : "Azathoth",
+    "mythology" : "lovecraft-mythos",
+    "eyes" :  "?",
+    "hobbies" : [
+        "swirling",
+        "misc. unknowable activities"
+    ]
+  },
+  {
+    "name" : "Ithaqua",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2?",
+    "hobbies" : [
+        "winter sports",
+        "cannibalism",
+        "corrupting human communities"
+    ]
+  },
+  {
+    "name" : "Elder Thing",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "5?",
+    "hobbies" : [
+        "Shoggoth breeding",
+        "hibernating"
+    ]
+  },
+  {
+    "name" : "European Vampire",
+    "mythology" : "traditional",
+    "eyes" : "2",
+    "hobbies" : [
+        "fashion",
+        "breeding wolves"
+    ]
+  },
+  {
+    "name" : "European Werewolf",
+    "mythology" : "traditional",
+    "eyes" :  "2",
+    "hobbies" : [
+        "trail running"
+    ]
+  },
+  {
+    "name" : "Nightgaunt",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2?",
+    "hobbies" : [
+        "flying"
+    ]
+  },
+  {
+    "name" : "Dagon",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2",
+    "hobbies" : [
+        "being huge and squamous"
+    ]
+  },
+  {
+    "name" : "Mother Hydra",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2",
+    "hobbies" : [
+        "being huge and squamous"
+    ]
+  },
+  {
+    "name" : "Yithian",
+    "mythology" : "traditional",
+    "eyes" : "depends on form",
+    "hobbies" : [
+        "archiving history",
+        "time travel"
+    ]
+  },
+  {
+    "name" : "Giant Albino Penguin",
+    "mythology" : "lovecraft-mythos",
+    "eyes" :  "2",
+    "hobbies" : [
+        "stumbling around caves"
+    ]
+  },
+  {
+    "name" : "Lloigor",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2?",
+    "hobbies" : [
+        "watersports"
+    ]
+  },
+  {
+    "name" : "Sand Dweller",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2",
+    "hobbies" : [
+        "not much"
+    ]
+  },
+  {
+    "name" : "Shudde M'ell",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "?",
+    "hobbies" : [
+        "tunneling",
+        "being immense"
+    ]
+  },
+  {
+    "name" : "Chaugnar Faugn",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2",
+    "hobbies" : [
+        "blood drinking",
+        "religious studies"
+    ]
+  },
+  {
+    "name" : "Hastur",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2",
+    "hobbies" : [
+        "theatre"
+    ]
+  },
+  {
+    "name" : "Tsathoggua",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "?",
+    "hobbies" : [
+    ]
+  },
+  {
+    "name" : "Yig",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2",
+    "hobbies" : [
+        "hibernation",
+        "breeding snakes"
+    ]
+  },
+  {
+    "name" : "Serpent Man",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "?",
+    "hobbies" : [
+        "yig worship"
+    ]
+  },
+  {
+    "name" : "Cthugha",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2",
+    "hobbies" : [
+        "pyrotechnics"
+    ]
+  },
+  {
+    "name" : "Glaaki",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "many",
+    "hobbies" : [
+        "revelating"
+    ]
+  },
+  {
+    "name" : "Ghatanothoa",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "?",
+    "hobbies" : [
+    ]
+  },
+  {
+    "name" : "Yib-Tsill",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2",
+    "hobbies" : [
+        "hibernation",
+        "breeding snakes"
+    ]
+  },
+  {
+    "name" : "Y'golonac",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "?",
+    "hobbies" : [
+        "perversion",
+        "depravity"
+    ]
+  },
+  {
+    "name" : "Mordiggian",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2",
+    "hobbies" : [
+        "feasting on the flesh of the dead",
+        "ruling over the ghouls of the dream lands"
+    ]
+  },
+  {
+    "name" : "Nug",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "unknown",
+    "hobbies" : [
+        "duality"
+    ]
+  },
+  {
+    "name" : "Yeb",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "unknown",
+    "hobbies" : [
+        "duality"
     ]
   }
 ]
