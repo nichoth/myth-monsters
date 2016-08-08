@@ -149,7 +149,7 @@
         "heralding Cthulu",
         "stomping things"
     ]
-  }
+  },
   {
     "name" : "Dark Young of Shub-niggaroth",
     "mythology" : "lovecraft-mythos",
@@ -401,6 +401,200 @@
     "eyes" : "unknown",
     "hobbies" : [
         "duality"
+    ]
+  }
+,
+  {
+    "name" : "Cthylla",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2",
+    "hobbies" : [
+        "being Cthulu's daughter",
+        "giving birth to Cthulhu"
+    ]
+  },
+  {
+    "name" : "Aphoom-Zhah",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "none",
+    "hobbies" : [
+        "interstellar travel",
+        "hanging with Ithaqua"
+    ]
+  },
+  {
+    "name" : "Atlach-Nacha",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2",
+    "hobbies" : [
+        "hanging with Tsathoggua",
+        "building a giant web in Hyperborea"
+    ]
+  },
+  {
+    "name" : "Bugg-Shash",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "many",
+    "hobbies" : [
+        "drowning stuff",
+        "filling space"
+    ]
+  },
+  {
+    "name" : "Chaat",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "none",
+    "hobbies" : [
+        "watersports",
+        "oozing"
+    ]
+  },
+  {
+    "name" : "Bokrug",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2?",
+    "hobbies" : [
+        "Smiting Sarnath",
+        "sleeping"
+    ]
+  },
+  {
+    "name" : "Knygathin Zhaum",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "many",
+    "hobbies" : [
+        "reproductive fissioning"
+    ]
+  },
+  {
+    "name" : "Gloon",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2",
+    "hobbies" : [
+        "corruption of the flesh",
+        "Guarding Atlantean Temples"
+    ]
+  },
+  {
+    "name" : "Hzioulquoigmnzhah",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "none",
+    "hobbies" : [
+        "interstellar travel",
+        "drinking liquid metal"
+    ]
+  },
+  {
+    "name" : "Juk-Shabb",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "none",
+    "hobbies" : [
+        "shining"
+    ]
+  },
+  {
+    "name" : "Sfatlicllp",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "none",
+    "hobbies" : [
+        "fallen wisdom"
+    ]
+  },
+  {
+    "name" : "Shathak",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "unknown",
+    "hobbies" : [
+        "matng with Tsathoggua"
+    ]
+  },
+  {
+    "name" : "Rhan-Tegoth",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "3",
+    "hobbies" : [
+        "trunk and gills society",
+        "arctic real estate",
+        "prehuman sacrifice"
+    ]
+  },
+  {
+    "name" : "Rlim Shaikorth",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2?",
+    "hobbies" : [
+        "freezing stuff",
+        "dripping blood"
+    ]
+  },
+  {
+    "name" : "Yamath",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "none",
+    "hobbies" : [
+        "lemurian godhood",
+        "red druid sacrifices"
+    ]
+  },
+  {
+    "name" : "Yhoundeh",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "unknown",
+    "hobbies" : [
+        "persecuting Tsathoggua's followers",
+        "Hyperborean Religion"
+    ]
+  },
+  {
+    "name" : "Ycnagnnisssz",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "unknown",
+    "hobbies" : [
+        "Zothian Genealogy",
+        "fission",
+        "spawning"
+    ]
+  },
+  {
+    "name" : "Zstulzhemgni",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "2?",
+    "hobbies" : [
+        "Bringing up Tsathoggua"
+    ]
+  },
+    {
+    "name" : "Zushakon",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "unknown",
+    "hobbies" : [
+        "perpetual darkness",
+        "bells"
+    ]
+  },
+  {
+    "name" : "Ghizguth",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "unknown",
+    "hobbies" : [
+        "Tsathoggua's dad",
+        "interstellar mating"
+    ]
+  },
+  {
+    "name" : "Eihort",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "many",
+    "hobbies" : [
+        "labyrinth",
+        "implanting its spawn"
+    ]
+  },
+  {
+    "name" : "Zvilpogghua",
+    "mythology" : "lovecraft-mythos",
+    "eyes" : "unknown",
+    "hobbies" : [
     ]
   }
 ]
