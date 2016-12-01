@@ -596,5 +596,23 @@
     "eyes" : "unknown",
     "hobbies" : [
     ]
-  }
+  },
+  {
+    "name" : "Gnoll",
+    "mythology" : "dungeons & dragons",
+    "eyes" : "soulless",
+    "hobbies" : [
+      "eating halfling flesh",
+      "shooting arrows"
+    ]
+  },
+  {
+    "name" : "Dryad",
+    "mythology" : "greek",
+    "eyes" : "woody",
+    "hobbies" : [
+      "standing still",
+      "lurking in glades"
+    ]
+  },
 ]
