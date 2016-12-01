@@ -623,5 +623,23 @@
       "sharing christmas cheer",
       "being super cheesy"
     ]
+  },
+  {
+    "name" : "Gooligad",
+    "mythology" : "hackalack",
+    "eyes" : "none",
+    "hobbies" : [
+      "likes to gool",
+      "eating babies"
+    ]
+  },
+  {
+    "name" : "TerrorSchnauzer",
+    "mythology" : "canine",
+    "eyes" : "brown",
+    "hobbies" : [
+      "DESTROY",
+      "adorable bearded death"
+    ]
   }
 ]
